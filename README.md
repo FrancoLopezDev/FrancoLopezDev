@@ -20,7 +20,7 @@
 | 🚀 | `ps -a` | `Just hanging out` |
 | 🖥️ | `neofetch` | `Qubes OS` |
 
-### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/campfire.gif" width="32px"/> Familiar with:
+### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/skillz.gif" width="32px"/> Familiar with:
 [![My Skills](https://skillicons.dev/icons?i=linux,obsidian,neovim,docker,bash,python,js,c,cpp)](https://skillicons.dev)
 
 ***
