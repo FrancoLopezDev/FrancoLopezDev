@@ -12,7 +12,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/planet.gif" width="240px"/>
 
-### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/Hacker.gif" width="32px"/> About me:
+### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/Hacker.gif" width="23px"/> About me:
 | 💾 | Command | Output |
 | --- | --- | --- |
 | 🐻 | `pwd` | `U.C. Berkeley` |
