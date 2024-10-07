@@ -1,8 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/hello.gif" width="50px"/>
-  Hey, I'm Franco
+ <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/github-logo.png" width="32px"/> Hey, I'm Franco
 </h1>
-<h3 align="center">College Student Studying Computer Science and Political Science.</h3>
+<h3 align="center">Welcome to my space on GitHub!</h3>
 <p align="center">
   <a href="https://www.franco-lopez.com"><img src="https://img.shields.io/badge/-Website-ff7139?style=flat&logo=https://franco-lopez.com/favicon-32x32.png&logoColor=white" alt="Franco Lopez's Website" /></a>
   <a href="https://www.linkedin.com/in/francolopezdev/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/francolopezdev/" alt="Linkedin Badge" /></a>
