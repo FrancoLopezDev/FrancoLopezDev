@@ -10,9 +10,9 @@
   <a href="https://github.com/FrancoLopezDev"><img src="https://hits.sh/github.com/FrancoLopezDev.svg?style=flat-square&label=Profile%20Views&color=purple" alt="Profile Views" /></a>
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/planet.gif" width="240px"/>
+<img align="right" src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/planet.gif" width="425px"/>
 
-### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/ghost.gif" width="32px"/> About me:
+### About me:
 | 💾 | Command | Output |
 | --- | --- | --- |
 | 🐻 | `pwd` | `U.C. Berkeley` |
