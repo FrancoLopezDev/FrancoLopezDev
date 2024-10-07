@@ -12,7 +12,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/planet.gif" width="240px"/>
 
-### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/banana.idea.gif" width="32px"/> About me:
+### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/Hacker.gif" width="32px"/> About me:
 | 💾 | Command | Output |
 | --- | --- | --- |
 | 🐻 | `pwd` | `U.C. Berkeley` |
@@ -20,7 +20,7 @@
 | 🚀 | `ps -a` | `Just hanging out` |
 | 🖥️ | `neofetch` | `Qubes OS` |
 
-### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/skillz.gif" width="32px"/> Familiar with:
+### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/skillz.gif" width="17px"/> Familiar with:
 [![My Skills](https://skillicons.dev/icons?i=linux,obsidian,neovim,docker,bash,python,js,c,cpp)](https://skillicons.dev)
 
 ***
