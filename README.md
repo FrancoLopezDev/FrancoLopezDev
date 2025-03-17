@@ -21,9 +21,3 @@
 
 ### <img src="https://raw.githubusercontent.com/FrancoLopezDev/FrancoLopezDev/main/assets/gifs/skillz.gif" width="17px"/> Familiar with:
 [![My Skills](https://skillicons.dev/icons?i=linux,obsidian,neovim,docker,bash,python,js,c,cpp)](https://skillicons.dev)
-
-***
-
-| Franco Lopez's Github Status | Most Used Languages |
-| --- | --- |
-| [![Github Stats](https://github-readme-stats.vercel.app/api?username=francolopezdev&show_icons=true&theme=nightowl&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) | [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=francolopezdev&show_icons=true&theme=nightowl&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
